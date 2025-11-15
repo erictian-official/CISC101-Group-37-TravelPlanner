@@ -31,5 +31,9 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
    - If user is vegan or has dietary constraints → ensure all meals match or swap with compliant ones.
 
 8. **Bookings**
+
+Updated module 03:
+added short-walk time flexibility rule and change log  
+
    
    - If activity usually needs a ticket → just remind the user to book it; never simulate bookings.
