@@ -143,4 +143,13 @@ I ran the travel planner using a short walk scenario and confirmed:
 - The system provided justification when exceptions to user preferences occurred
 
 
+## **change log - module 03**
+This is the refined module based on AI feedback
+- Added indoor-scenario fallback and backup instructions
+- Added a check to ensure format compliance as a means to reduce undesired outputs
+- Improved clarity and sequencing of guardrail steps
+- Enhanced edge-case handling for vague and contradicting user inputs
+
+
+
 
